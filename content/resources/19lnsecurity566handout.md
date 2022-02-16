@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Security
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/537cc7a5d1882009e6a6568a8cc836e1_19lnsecurity566handout.pdf
+file: /media/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/537cc7a5d1882009e6a6568a8cc836e1_19lnsecurity566handout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 19lnsecurity566handout.pdf
 uid: 537cc7a5-d188-2009-e6a6-568a8cc836e1
