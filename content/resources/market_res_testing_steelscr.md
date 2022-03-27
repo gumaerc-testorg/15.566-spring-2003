@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: market_res_testing_steelscr.pdf
 uid: 9f365ad8-7500-d086-cd9b-51c56b60a5e3

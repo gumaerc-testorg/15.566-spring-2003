@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: 19lnsecurity566handout.pdf
 uid: 537cc7a5-d188-2009-e6a6-568a8cc836e1

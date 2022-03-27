@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d50156ac-bb1e-17a7-2503-8187ca93caf1
 resourcetype: Document
 title: lecture815566technologyassig.pdf
 uid: f104a9da-578d-3a42-9020-606523f17731

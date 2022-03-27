@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d50156ac-bb1e-17a7-2503-8187ca93caf1
 resourcetype: Document
 title: 15566finalexam.pdf
 uid: dea01f01-64a5-b560-4616-11159ec44732

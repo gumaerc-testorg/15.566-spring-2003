@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: lnlmchandout.pdf
 uid: 1f1d0944-0ed1-415a-a6b3-99ce1e3a31a7

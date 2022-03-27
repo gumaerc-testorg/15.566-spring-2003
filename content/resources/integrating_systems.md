@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: integrating_systems.pdf
 uid: a1f74b8a-814c-5146-0462-a00356cca958

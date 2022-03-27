@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Other
 title: steelscreen.exe
 uid: eb8aa2ff-3011-528a-ebdf-db8078c08a6c

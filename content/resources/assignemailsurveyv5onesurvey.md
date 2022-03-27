@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: assignemailsurveyv5onesurvey.pdf
 uid: 1ecbdf6d-5af2-e7ba-b4f4-f7c945ce83a4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
 resourcetype: Document
 title: 5baxterebusinessbnv4.pdf
 uid: dd543651-4201-3854-c57a-6ce6ec25d6f8
