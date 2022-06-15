@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Introduction to Databases, Data Modeling and XML: What is a database?'
-file: /media/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/cf4d31048827ad8f092616f21c7bcbe5_ln15566databases.pdf
+file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/cf4d31048827ad8f092616f21c7bcbe5_ln15566databases.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ln15566databases.pdf
 uid: cf4d3104-8827-ad8f-0926-16f21c7bcbe5
 ---
+Introduction to Databases, Data Modeling and XML: What is a database?
+
