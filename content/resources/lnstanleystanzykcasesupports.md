@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lnstanleystanzykcasesupports.pdf
 uid: 7da6a767-6409-7d25-78db-8479f2e82163
 ---
 Intel Manufacturing Computing
-

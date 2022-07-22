@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2secondsession15566v3.pdf
 uid: 5980492f-e48c-21f1-99a7-3f9bbf6d9164
 ---
 Session 2 of 25: Should the General Manager Care to Learn IT?
-

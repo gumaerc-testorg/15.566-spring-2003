@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture815566technologyassig.pdf
 uid: f104a9da-578d-3a42-9020-606523f17731
 ---
 Term Assignment
-

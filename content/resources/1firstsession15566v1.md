@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1firstsession15566v1.pdf
 uid: f9ab12ea-6e60-6557-e6d3-293a327d9f03
 ---
 Session 1 of 25: Course Introduction
-

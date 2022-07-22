@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lnamericancrownsoftwaredevel.pdf
 uid: ed3a6175-92cd-2488-b4a8-ee50ffe7f747
 ---
 American Crown and Software Development
-

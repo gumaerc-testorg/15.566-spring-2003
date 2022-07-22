@@ -5,6 +5,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ln15566databases.pdf
 uid: cf4d3104-8827-ad8f-0926-16f21c7bcbe5
 ---
 Introduction to Databases, Data Modeling and XML: What is a database?
-

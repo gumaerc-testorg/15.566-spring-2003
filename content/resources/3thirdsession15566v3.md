@@ -6,6 +6,7 @@ file: /courses/15-566-information-technology-as-an-integrating-force-in-manufact
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3thirdsession15566v3.pdf
 uid: 37d481b8-484a-c102-7cc6-0df1db311daa
 ---
 Concluding Remarks: Session 3 of 24. Re-Positioning the Value Proposition through IT
-
