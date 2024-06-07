@@ -146,7 +146,7 @@ The Central Nervous System of Automated Virtual Manufacturing Plants
 
 Guest Speaker: Jim Miller, VP Supply Chain & Logistics, Cisco Systems, Inc.
 
-{{% resource_link "739ac1c0-677c-4e9b-bef9-34e47a2b1bb9" "http://www.cisco.com" %}}
+[http://www.cisco.com](http://www.cisco.com/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -158,7 +158,7 @@ Linking Process Modeling Architecture with ERP The Case of American Meter Compan
 
 Guest Lecture: Ed Brady, IT Director, American Meter Company
 
-{{% resource_link "9db66289-c07e-4cca-b8e3-87ffde384ecc" "http://www.americanmeter.com" %}}
+[http://www.americanmeter.com](https://www.elster-americanmeter.com/en/index)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -176,7 +176,7 @@ IT and Productivity. Cost Reduction of IT Automation Within Intel Manufacturing 
 
 Guest Speaker: Stanley Stanzyk, Automation Manager in Charge of Computing Cost Reduction. Intel Corp.
 
-{{% resource_link "8da1ac52-f9d5-470c-9196-f8779a3aaff6" "http://www.intel.com" %}}
+[http://www.intel.com](http://www.intel.com/)
 
 - Case: "IT/Automation Cost Reduction in Intel's Manufacturing Environment."
 
@@ -272,7 +272,7 @@ Artificial Intelligence and the Robots of the Future
 
 Guest Speaker: Prof. Rodney Brooks Director, MIT Artificial Intelligence Laboratory
 
-{{% resource_link "23361bff-389a-42ca-9d55-b2215dd87182" "http://www.ai.mit.edu/" %}}
+[http://www.ai.mit.edu/](http://www.ai.mit.edu/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -300,7 +300,7 @@ What Should the CEO Know About Manufacturing?
 
 Wireless Technologies and 3G Guest Speaker: Lars-Göran Hansson, Manufacturing Processes, Ericsson
 
-{{% resource_link "21cce329-34b8-4d05-810b-4430da59f38c" "http://www.ericsson.com" %}}
+[http://www.ericsson.com](http://www.ericsson.com)
 
 {{< tdclose >}}{{< tdopen >}}
 
