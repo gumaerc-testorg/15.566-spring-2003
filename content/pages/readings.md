@@ -29,7 +29,7 @@ Course Introduction
 {{< tdclose >}}{{< tdopen >}}
 Should the General Manager Care to Learn IT?
 {{< tdclose >}}{{< tdopen >}}
-Case: Andreu, Prof. Rafael. "Autoventa Diaria S.A.: Memorandum to the CEO and the CMO/CIO Crisis." IESE Case No. 0-192-030 SI-35-E. {{% resource_link "ebef7fc0-62e7-4c98-83ad-46f9e09745a5" "IESE Publishing" %}}, 1992.
+Case: Andreu, Prof. Rafael. "Autoventa Diaria S.A.: Memorandum to the CEO and the CMO/CIO Crisis." IESE Case No. 0-192-030 SI-35-E. [IESE Publishing](http://www.iesep.com/), 1992.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Positioning and IT**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -37,7 +37,7 @@ Case: Andreu, Prof. Rafael. "Autoventa Diaria S.A.: Memorandum to the CEO and th
 {{< tdclose >}}{{< tdopen >}}
 Re-Positioning the Value Proposition Through IT
 {{< tdclose >}}{{< tdopen >}}
-Case: Subirana, Prof. Brian and Marcel Zuidhof. "Virtual Distribution on the Internet and the Transformation of the Publishing Industry." IESE Case No. 0-196-026 SI-93-E. {{% resource_link "ebef7fc0-62e7-4c98-83ad-46f9e09745a5" "IESE Publishing" %}}, 1996.
+Case: Subirana, Prof. Brian and Marcel Zuidhof. "Virtual Distribution on the Internet and the Transformation of the Publishing Industry." IESE Case No. 0-196-026 SI-93-E. [IESE Publishing](http://www.iesep.com/), 1996.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -97,7 +97,7 @@ SAP in Manufacturing 
 What Should the CEO Know About ERPs?
 {{< tdclose >}}{{< tdopen >}}
 
-Case: Andreu, Rafael, Sandra Sieber, Brian Subirana, Josep Valor and Fernando Jim?nez. "Implementation of SAP at CELSA (B)." IESE Case No. 2-103-019 SI-139-E. Barcelona, Spain: {{% resource_link "ebef7fc0-62e7-4c98-83ad-46f9e09745a5" "IESE Publishing" %}}, January 2003.
+Case: Andreu, Rafael, Sandra Sieber, Brian Subirana, Josep Valor and Fernando Jim?nez. "Implementation of SAP at CELSA (B)." IESE Case No. 2-103-019 SI-139-E. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), January 2003.
 
 Davenport, T. H. "Putting the Enterprise into the Enterprise System." _Harvard Business Review_, August 1998, pp. 121-131.
 
@@ -119,7 +119,7 @@ The Central Nervous System of Automated Virtual Manufacturing Plants
 
 Guest Speaker: Jim Miller, VP Supply Chain & Logistics, Cisco Systems, Inc.
 
-{{% resource_link "4fc6bd53-99ac-471c-aa1d-d08430aaf161" "http://www.cisco.com" %}}
+[http://www.cisco.com](http://www.cisco.com)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -131,7 +131,7 @@ Linking Process Modeling Architecture with ERP The Case of American Meter Compan
 
 Guest Lecture: Ed Brady, IT Director, American Meter Company
 
-{{% resource_link "7c95cdfb-0a7b-4362-b1c1-c2ccce6aaa09" "http://www.americanmeter.com" %}}
+[http://www.americanmeter.com](http://www.americanmeter.com)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -165,7 +165,7 @@ Cost Reduction of IT Automation Within Intel Manufacturing Plants
 
 Guest Speaker: Stanley Stanzyk, Automation Manager in Charge of Computing Cost Reduction. Intel Corp.
 
-{{% resource_link "d3787ad3-c83e-46da-9625-0b68c6e7e3e2" "http://www.intel.com" %}}
+[http://www.intel.com](http://www.intel.com)
 
 {{< tdclose >}}{{< tdopen >}}
 Case: Stanzyk, Stan and Tee Welton under supervision of Prof. Brian Subirana. "IT/Automation Cost Reduction in Intel's Manufacturing Environment." Cambridge, MA: MIT Sloan, 2003.
@@ -196,7 +196,7 @@ Role of Senior Management in the Implementation Process
 The Case of Handheld Devices
 
 {{< tdclose >}}{{< tdopen >}}
-Case: O'Callaghan, Ramon under supervision of Michael Vitale. "American Crown (Condensed)." IESE Case No. 3-195-003 SI-73-E. Barcelona, Spain: {{% resource_link "ebef7fc0-62e7-4c98-83ad-46f9e09745a5" "IESE Publishing" %}}, 1994.
+Case: O'Callaghan, Ramon under supervision of Michael Vitale. "American Crown (Condensed)." IESE Case No. 3-195-003 SI-73-E. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), 1994.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
@@ -207,7 +207,7 @@ Behar, Richard. "Who's Reading Your E-mail?" Fortune. Feb. 3, 1997, pp. 57-70. V
 
 **Optional:**
 
-PC Webopedia - Encryption Category Page. ({{% resource_link "e35fecc4-5964-40a6-bee3-202340ec4b4c" "http://www.webopedia.com/TERM/e/encryption.html" %}})
+PC Webopedia - Encryption Category Page. ([http://www.webopedia.com/TERM/e/encryption.html](http://www.webopedia.com/TERM/e/encryption.html))
 
 (Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, digital cash, smart card.)
 
@@ -230,7 +230,7 @@ Steel Manufacturing and Cross-Company Processes Delivering an Industry-wide IT S
 Guest Speaker: Richard Rowe, Founder of RoweCom
 
 {{< tdclose >}}{{< tdopen >}}
-Case: Subirana, Prof. Brian. "Steelscreen.com Challenges in Aligning Technology and Strategy in B2B." IESE Case No. SI-118. Barcelona, Spain: {{% resource_link "ebef7fc0-62e7-4c98-83ad-46f9e09745a5" "IESE Publishing" %}}, 2000.
+Case: Subirana, Prof. Brian. "Steelscreen.com Challenges in Aligning Technology and Strategy in B2B." IESE Case No. SI-118. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), 2000.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Conclusion: The Future of IT, Manufacturing, and You**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -241,7 +241,7 @@ Artificial Intelligence and the Robots of the Future
 
 Guest Speaker: Prof. Rodney Brooks Director, MIT Artificial Intelligence Laboratory
 
-{{% resource_link "23361bff-389a-42ca-9d55-b2215dd87182" "http://www.ai.mit.edu/" %}}
+[http://www.ai.mit.edu/](http://www.ai.mit.edu/)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -259,7 +259,7 @@ What Should the CEO Know About Manufacturing?
 
 Wireless Technologies and 3G Guest Speaker: Lars-Göran Hansson, Manufacturing Processes, Ericsson
 
-{{% resource_link "21cce329-34b8-4d05-810b-4430da59f38c" "http://www.ericsson.com" %}}
+[http://www.ericsson.com](http://www.ericsson.com)
 
 {{< tdclose >}}{{< tdopen >}}
  
