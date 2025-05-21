@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Introduction to Databases, Data Modeling and XML: What is a database?'
-file: /ol-ocw-studio-app/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/cf4d31048827ad8f092616f21c7bcbe5_ln15566databases.pdf
+file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/cf4d31048827ad8f092616f21c7bcbe5_ln15566databases.pdf
 file_size: 414588
 file_type: application/pdf
 learning_resource_types:

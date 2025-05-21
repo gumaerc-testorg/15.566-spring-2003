@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/dea01f0164a5b560461611159ec44732_15566finalexam.pdf
+file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/dea01f0164a5b560461611159ec44732_15566finalexam.pdf
 file_size: 35982
 file_type: application/pdf
 learning_resource_types:
