@@ -8,8 +8,8 @@ leftnav:
   pageRef: /pages/calendar
   weight: 20
 - identifier: 1bd3dac5-427e-414a-6627-8a6e7e67f2c0
-  name: Readings
-  pageRef: /pages/readings
+  name: Readings Test
+  pageRef: /pages/readings-test
   weight: 30
 - identifier: 89d5c8cf-ef2d-add5-c050-dbc39b645a50
   name: Lecture Notes
