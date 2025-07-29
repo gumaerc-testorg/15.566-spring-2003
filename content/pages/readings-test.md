@@ -1,11 +1,11 @@
 ---
 content_type: page
-description: ''
+description: Readings
 draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-title: Readings
+title: Readings Test
 uid: 1bd3dac5-427e-414a-6627-8a6e7e67f2c0
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
