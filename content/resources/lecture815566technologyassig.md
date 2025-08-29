@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Term Assignment
-file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/f104a9da578d3a429020606523f17731_lecture815566technologyassig.pdf
+file: /ol-ocw-studio-app/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/f104a9da578d3a429020606523f17731_lecture815566technologyassig.pdf
 file_size: 244924
 file_type: application/pdf
 learning_resource_types:
